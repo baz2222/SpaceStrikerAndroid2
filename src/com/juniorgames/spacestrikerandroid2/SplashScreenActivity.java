@@ -1,4 +1,4 @@
-package com.juniorgames.spacestrikerandroid;
+package com.juniorgames.spacestrikerandroid2;
 
 import com.badlogic.gdx.backends.android.AndroidApplication;
 import com.badlogic.gdx.backends.android.AndroidApplicationConfiguration;

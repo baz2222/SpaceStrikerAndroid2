@@ -1,4 +1,4 @@
-package com.juniorgames.spacestrikerandroid;
+package com.juniorgames.spacestrikerandroid2;
 
 import java.io.FileReader;
 import org.json.simple.JSONObject;
